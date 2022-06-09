@@ -1,7 +1,5 @@
 # Hi there, I'm Irakli Khizanishvili aka Eko
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/iraklik/im-a-cm-b.svg)](https://www.codementor.io/@iraklik?refer=badge)
-
 👨🏻‍💻 I'm a Software Engineer based out of Los Angeles, California
 
 ⚡️ Passionate about JS/TS, learning, tooling and the Internet
