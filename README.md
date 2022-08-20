@@ -6,8 +6,6 @@
 
 🌐 Looking to contribute to more open source projects
 
----
-
 <p>
   <a href="https://meetirakli.com/" rel="noopener">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=html5&label=Website&message=meetirakli.com&color=E34F26" />
