@@ -1,13 +1,1 @@
-# Hi there, I'm Irakli Khizanishvili aka Eko
-
-👨🏻‍💻 I'm a Software Engineer based out of Los Angeles, California
-
-⚡️ Passionate about JS/TS, learning, tooling and the Internet
-
-🌐 Looking to contribute to more open source projects
-
-<p>
-  <a href="https://meetirakli.com/" rel="noopener">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=html5&label=Website&message=meetirakli.com&color=E34F26" />
-  </a>
-</p>
+<sup>I'm a Software Engineer based in Los Angeles, California. I love to build, learn, and share my knowledge about everything JavaScript, TypeScript, and the wide world of web development.</sup>
